@@ -1,0 +1,47 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: x-large;
+}
+
+h2{
+    font-size: large;
+}
+
+h3{
+    font-size: medium;
+    text-decoration: underline;
+}
+
+body{
+    background-image: linear-gradient(to right, lightblue, lightgreen);
+    border-color:  #99FFCC;
+    border-radius: 10px; 
+    margin: 10px;
+}
+
+fieldset{
+    background-color: white;
+    border-color: lightgrey;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+ul{
+    list-style-type: circle;
+    background-color: rgb(225, 240, 245);
+    border-radius: 5px;
+    border-color: lightskyblue;
+    
+}
+
+img{
+    float: left;
+}
+
+p{
+    font-size: medium;
+}
+
